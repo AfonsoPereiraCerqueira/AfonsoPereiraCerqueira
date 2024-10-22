@@ -6,6 +6,7 @@ I'm a **Management Informatics** student, currently working on my final project 
 ### 🚀 Skills:
 - **Programming Languages:** Python, JavaScript
 - **Frameworks/Libraries:** ReactJS, basic TypeScript
+- **Databases:** MongoDB, MySQL
   
 ### 💻 Technologies I'm Exploring:
 - Backend with **Node.js**
