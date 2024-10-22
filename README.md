@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hello! I'm Afonso Pereira Cerqueira 👋
 
-<!--
-**AfonsoPereiraCerqueira/AfonsoPereiraCerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me:
+I'm a **Management Informatics** student, currently working on my final project for the Professional Aptitude Test (PAP) – a **VPS/Cloud Management Sales Website**. I have a strong passion for learning new technologies and solving problems through code.
 
-Here are some ideas to get you started:
+### 🚀 Skills:
+- **Programming Languages:** Python, JavaScript
+- **Frameworks/Libraries:** ReactJS, basic TypeScript
+  
+### 💻 Technologies I'm Exploring:
+- Backend with **Node.js**
+- Cloud and DevOps (AWS, Docker)
+- **TypeScript** for advanced ReactJS development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to Reach Me:
+- Email: afonsocerqueira6@gmail.com
+
+### ⚡ Quick Facts:
+- 🌍 Location: Portugal
+- 👨‍💻 Focused on full-stack development
+- 📖 Always learning and exploring new tools
+
+---
+
+### 🌐 Current Projects:
+🔨 I'm currently developing my final project for the PAP: a **VPS/Cloud Management Sales Website**. Stay tuned for updates!
+
+---
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoPereiraCerqueira&show_icons=true&hide_border=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPereiraCerqueira&layout=compact&hide_border=true&theme=dark" />
+</div>
