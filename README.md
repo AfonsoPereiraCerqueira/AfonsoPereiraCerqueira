@@ -4,8 +4,8 @@
 I'm a **Management Informatics** student, currently working on my final project for the Professional Aptitude Test (PAP) – a **VPS/Cloud Management Sales Website**. I have a strong passion for learning new technologies and solving problems through code.
 
 ### 🚀 Skills:
-- **Programming Languages:** Python, JavaScript
-- **Frameworks/Libraries:** ReactJS, basic TypeScript
+- **Programming Languages:** Python, JavaScript, Lua, TypeScript
+- **Frameworks/Libraries:** ReactJS
 - **Databases:** MongoDB, MySQL
   
 ### 💻 Technologies I'm Exploring:
@@ -20,11 +20,6 @@ I'm a **Management Informatics** student, currently working on my final project 
 - 🌍 Location: Portugal
 - 👨‍💻 Focused on full-stack development
 - 📖 Always learning and exploring new tools
-
----
-
-### 🌐 Current Projects:
-🔨 I'm currently developing my final project for the PAP: a **VPS/Cloud Management Sales Website**. Stay tuned for updates!
 
 ---
 
