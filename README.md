@@ -1,7 +1,7 @@
 # Hello! I'm Afonso Pereira Cerqueira 👋
 
 ### 🌱 About Me:
-I'm a **Management Informatics** student, currently working on my final project for the Professional Aptitude Test (PAP) – a **VPS/Cloud Management Sales Website**. I have a strong passion for learning new technologies and solving problems through code.
+I'm a **Management Informatics** student. I have a strong passion for learning new technologies and solving problems through code.
 
 ### 🚀 Skills:
 - **Programming Languages:** Python, JavaScript, Lua, TypeScript
