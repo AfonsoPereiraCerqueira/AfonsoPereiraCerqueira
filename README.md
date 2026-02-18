@@ -48,10 +48,10 @@ Currently, I am prioritizing my **Software Engineering degree** and deep-diving 
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoPereiraCerqueira&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPereiraCerqueira&layout=compact&hide_border=true&theme=dark" alt="Top Languages" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AfonsoPereiraCerqueira&show_icons=true&theme=radical&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AfonsoPereiraCerqueira&layout=compact&theme=radical&hide_border=false" />
+</p>
 
 ---
 
