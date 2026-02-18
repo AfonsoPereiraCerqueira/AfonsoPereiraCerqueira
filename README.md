@@ -1,67 +1,52 @@
 # 👋 Hello! I'm Afonso Pereira Cerqueira
 
----
+**Software Engineering Student | Java & Full-Stack Enthusiast**
 
-## 🌱 About Me
-
-I'm a **Computer Engineering** student with a strong passion for technology, problem-solving, and continuous learning. I love exploring new tools and building useful, creative solutions through code.
+I am a dedicated **Software Engineering** student based in **Portugal** 🇵🇹. My current focus is building a rock-solid foundation in computer science principles while mastering the tools that power the modern web. I’m a problem-solver at heart, driven by the challenge of turning complex logic into clean, functional code.
 
 ---
 
-## 🚀 Technical Skills
+## 🚀 Technical Arsenal
 
-| Area | Tools / Technologies |
-|---|---|
-| **Programming Languages** | Python · JavaScript · Lua · TypeScript |
-| **Front-end** | ReactJS · HTML · CSS |
-| **Back-end** | Node.js · Express |
-| **Databases** | MongoDB · MySQL |
-| **DevOps & Cloud** | Docker · AWS (basic services) |
-| **Other** | Git · Linux · VSCode · GitHub |
-
----
-
-## 🎯 Interests & What I'm Exploring
-
-- Full-stack development (React + Node.js)  
-- TypeScript for robust front-end and back-end code  
-- Cloud computing & DevOps tools (Docker, AWS, CI/CD)  
-- Open-source collaboration  
-- Learning more about AI & machine learning fundamentals  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Java • TypeScript • JavaScript • Python • Lua |
+| **Front-end** | ReactJS • HTML5 • CSS3 |
+| **Back-end** | Node.js • Express |
+| **Databases** | MongoDB • MySQL |
+| **Infrastructure** | Docker • AWS (Fundamentals) • Linux |
+| **Workflow** | Git • GitHub • VS Code • Postman |
 
 ---
 
-## 💼 Highlighted Projects
+## 🎯 Current Academic Focus
 
-Here are a few of my most interesting or recent projects:
+Currently, I am prioritizing my **Software Engineering degree** and deep-diving into:
 
-- **Project A** – Developed - Micro SaaS, VPS and Cloud Hosting.  
-- **Project B** – Developing - Micro SaaS, TO-DO App
-
----
-
-## 📚 Education
-
-- 🎓 Currently pursuing a degree in **Computer Engineering**  
-- 📖 Also learning through online platforms, tutorials, and real-world projects  
+* **Object-Oriented Programming:** Mastering **Java** for scalable, high-performance applications.
+* **Software Fundamentals:** Data structures, algorithms, and clean code practices.
 
 ---
 
-## 📫 Contact Me
+## 📂 Featured Projects (Archived)
 
-- 📧 Email: afonsocerqueira6@gmail.com
+* **Micro SaaS Platform** – Explored VPS and Cloud Hosting integration for scalable services.
+* **Productivity Suite** – Developed a custom TO-DO application focusing on UX and state management.
 
----
-
-## 🌍 Quick Facts
-
-- 🏠 Based in: Portugal  
-- 👨‍💻 Passionate about full-stack development and real-world problem solving  
-- 🔄 Always improving, always building  
+> [!NOTE]
+> *I am currently dedicating my full energy to my academic curriculum and mastering Java. While I’m not starting new personal projects right now, I’m constantly building internal labs and university assignments.*
 
 ---
 
-## 📊 GitHub Stats
+## 🎓 Education & Background
+
+* 🎓 **B.S. in Software Engineering** – In progress.
+* 📖 **Continuous Learning:** Enhancing my university curriculum with platforms like Udemy, freeCodeCamp, and Coursera.
+* 🌍 **Based in:** Portugal.
+
+---
+
+## 📊 GitHub Insights
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AfonsoPereiraCerqueira&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats" />
@@ -70,14 +55,13 @@ Here are a few of my most interesting or recent projects:
 
 ---
 
-## 🛠️ Tools I Use
+## 📫 Get in Touch
 
-- **Code Editor:** VS Code  
-- **Version Control:** Git & GitHub  
-- **API Testing:** Postman / Insomnia  
-- **Learning Platforms:** freeCodeCamp, Udemy, Coursera  
-- **Communities:** Stack Overflow, GitHub, Discord tech servers  
+I’m always up for a chat about software architecture, Java, or the latest in tech!
+
+* **Email:** [afonsocerqueira6@gmail.com](mailto:afonsocerqueira6@gmail.com)
+* **Status:** 🎓 Focused on Engineering Studies & Solving Problems
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects or get in touch 👇
+*Thanks for visiting my profile!*
